@@ -1,2 +1,2 @@
 # MSVC-Wrokstation
-Master by Research using MSVC
+Contain random small program using MSCV
